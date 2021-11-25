@@ -11,7 +11,7 @@ const Home = () => {
             <div className="content ">
 
                 <div className="container row  ">
-
+{/* 
                     <div class="card">
                           <div class="container text-center">
                             <span className="Card-icon-ad">q</span><b className="card-body-ad">00</b> 
@@ -31,7 +31,7 @@ const Home = () => {
                             <span className="Card-icon-ad">q</span><b className="card-body-ad">00</b> 
                         </div>
                         <div className="card-footer-ad"><b>Add Session </b></div>
-                    </div>
+                    </div> */}
 
                 </div>
 
